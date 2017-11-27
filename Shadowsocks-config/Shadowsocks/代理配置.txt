@@ -1,0 +1,5 @@
+·þÎñÆ÷£ºss.fanqiang.info
+server_port : 10003
+local_port : 1080,
+password : 71072039
+method : aes-256-cfb
